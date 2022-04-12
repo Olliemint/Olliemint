@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Olliemint
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascriot
-- 💞️ I’m looking to collaborate on microverse students
+- 🌱 I’m currently learning Angular
+- 💞️ I’m looking to collaborate on Software Developers
 - 📫 How to reach me ...
 
 <!---
