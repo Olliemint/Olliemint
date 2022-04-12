@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Olliemint
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on Software Developers
+- 💞️ I’m looking to collaborate with other Software Developers
 - 📫 How to reach me ...
 
 <!---
