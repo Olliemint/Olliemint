@@ -52,7 +52,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 <!-- start dynamic spotify spngs API -->
-### i really like music :house:
+### i really like music :music:
 
 <!-- Nothing weird to see here -->
 <p align="center">currently jamming to</p>
