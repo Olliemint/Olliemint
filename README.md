@@ -14,8 +14,8 @@
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: **Coder**
 - :bulb: Occasionaly I do participate in **Codewars**
-- 👨 Know more about me at [Twitter]() 
-- 🌐 Visit my [porfolio website]() for complete background and contact.
+- 👨 Know more about me at [Instagram](https://www.instagram.com/oliver_koech_/) 
+- 🌐 Visit my [porfolio website](https://olliemint.github.io/Portfolio/) for complete background and contact.
 
 - ⚡ Languages: **Django | JavaScript |  Flask  | Tailwind |**
 
@@ -52,7 +52,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 <!-- start dynamic spotify spngs API -->
-### i really like music :music:
+### i really like music ::
 
 <!-- Nothing weird to see here -->
 <p align="center">currently jamming to</p>
